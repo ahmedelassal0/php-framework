@@ -1,0 +1,17 @@
+{
+    "name": "ahmed/phpblog",
+    "autoload": {
+        "psr-4": {
+            "Ahmed\\Phpblog\\": "src/",
+            "Core\\": "Core",
+            "Http\\": "Http"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Elassal",
+            "email": "ahmedelassalq3@gmail.com"
+        }
+    ],
+    "require": {}
+}
